@@ -17,20 +17,20 @@
 ## Internships(teamwork)
 **Data Scientist @IKEA (_May 2023 - Jul 2023_)**
 - Objective: Developed a solution to address order imperfections within IKEA’s Order Life Cycle.
-- • Impact: Utilized order lifecycle logs to estimate the likelihood of imperfections and identify root causes, enhancing customer
+- Impact: Utilized order lifecycle logs to estimate the likelihood of imperfections and identify root causes, enhancing customer
 satisfaction, reducing costs, and optimizing operational efficiency.
-- • Tools & Technologies: Process Mining, Machine Learning, Data Visualization, Explainable AI.
+- Tools & Methods used: Process Mining, Machine Learning, Data Visualization, Explainable AI.
 
 
 **Data Scientist @Essent (_Feb 2023 - Apr 2023_)**
-- Objective: Developed a solution to address order imperfections within IKEA’s Order Life Cycle.
-- • Impact: Utilized order lifecycle logs to estimate the likelihood of imperfections and identify root causes, enhancing customer
-satisfaction, reducing costs, and optimizing operational efficiency.
-- • Tools & Technologies: Process Mining, Machine Learning, Data Visualization, Explainable AI.
+- Objective: Developed a specialized tool using Variational AutoEncoders (VAEs) to augment and analyze weather forecast errors
+- Impact: Integrated 24-hour forecasting error simulations for temperature, wind speed, and solar radiation with Essent’s Balancing
+Market Risk (BMR) model to improve model performance.
+- Tools & Methods used: Python, Keras, TensorFlow, Deep Learning, Time Series Analysis, Modeling and Simulation.
 
 
 **Data Scientist @DLL (_Oct 2022 - Jan 2023_)**
-- Objective: Developed a solution to address order imperfections within IKEA’s Order Life Cycle.
-- • Impact: Utilized order lifecycle logs to estimate the likelihood of imperfections and identify root causes, enhancing customer
-satisfaction, reducing costs, and optimizing operational efficiency.
-- • Tools & Technologies: Process Mining, Machine Learning, Data Visualization, Explainable AI.
+- Objective: Objective: Designed and implemented an automated tool for adverse media screening using web crawling techniques.
+- Impact: Created a user-friendly web application for DLL compliance officers, enhancing the speed and accuracy of customer
+screening decisions in compliance with industry regulations.
+- Tools & Methods used: Natural Language Processing (NLP), Web Scraping, BeautifulSoup, Flask, Data Analytics.
