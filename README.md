@@ -21,7 +21,7 @@
 satisfaction, reducing costs, and optimizing operational efficiency.
 - Tools & Methods used: Process Mining, Machine Learning, Data Visualization, Explainable AI.
 
-![EEG Band Discovery](/assets/Capture.jpeg)
+![EEG Band Discovery](/assets/Capture.JPG)
 
 
 **Data Scientist @Essent (_Feb 2023 - Apr 2023_)**
@@ -30,9 +30,13 @@ satisfaction, reducing costs, and optimizing operational efficiency.
 Market Risk (BMR) model to improve model performance.
 - Tools & Methods used: Python, Keras, TensorFlow, Deep Learning, Time Series Analysis, Modeling and Simulation.
 
+![EEG Band Discovery](/assets/essent.JPG)
+
 
 **Data Scientist @DLL (_Oct 2022 - Jan 2023_)**
 - Objective: Objective: Designed and implemented an automated tool for adverse media screening using web crawling techniques.
 - Impact: Created a user-friendly web application for DLL compliance officers, enhancing the speed and accuracy of customer
 screening decisions in compliance with industry regulations.
 - Tools & Methods used: Natural Language Processing (NLP), Web Scraping, BeautifulSoup, Flask, Data Analytics.
+
+  ![EEG Band Discovery](/assets/dll.JPG)
