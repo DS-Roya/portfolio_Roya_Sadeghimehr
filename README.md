@@ -21,6 +21,8 @@
 satisfaction, reducing costs, and optimizing operational efficiency.
 - Tools & Methods used: Process Mining, Machine Learning, Data Visualization, Explainable AI.
 
+! [EEG Band Discovery](/assets/Capture.jpeg)
+
 
 **Data Scientist @Essent (_Feb 2023 - Apr 2023_)**
 - Objective: Developed a specialized tool using Variational AutoEncoders (VAEs) to augment and analyze weather forecast errors
