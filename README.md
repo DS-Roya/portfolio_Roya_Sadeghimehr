@@ -20,11 +20,15 @@
 - • Impact: Utilized order lifecycle logs to estimate the likelihood of imperfections and identify root causes, enhancing customer
 satisfaction, reducing costs, and optimizing operational efficiency.
 - • Tools & Technologies: Process Mining, Machine Learning, Data Visualization, Explainable AI.
+
+
 **Data Scientist @Essent (_Feb 2023 - Apr 2023_)**
 - Objective: Developed a solution to address order imperfections within IKEA’s Order Life Cycle.
 - • Impact: Utilized order lifecycle logs to estimate the likelihood of imperfections and identify root causes, enhancing customer
 satisfaction, reducing costs, and optimizing operational efficiency.
 - • Tools & Technologies: Process Mining, Machine Learning, Data Visualization, Explainable AI.
+
+
 **Data Scientist @DLL (_Oct 2022 - Jan 2023_)**
 - Objective: Developed a solution to address order imperfections within IKEA’s Order Life Cycle.
 - • Impact: Utilized order lifecycle logs to estimate the likelihood of imperfections and identify root causes, enhancing customer
