@@ -21,7 +21,7 @@
 satisfaction, reducing costs, and optimizing operational efficiency.
 - Tools & Methods used: Process Mining, Machine Learning, Data Visualization, Explainable AI.
 
-![EEG Band Discovery](/assets/ikea.JPG)
+![EEG Band Discovery](/assets/ikea.jpg)
 
 
 **Data Scientist @Essent (_Feb 2023 - Apr 2023_)**
