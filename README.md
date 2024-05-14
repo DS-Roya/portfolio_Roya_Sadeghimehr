@@ -40,3 +40,16 @@ screening decisions in compliance with industry regulations.
 - Tools & Methods used: Natural Language Processing (NLP), Web Scraping, BeautifulSoup, Flask, Data Analytics.
 
   ![EEG Band Discovery](/assets/dll.JPG)
+
+
+
+
+## Positions of Responsibility
+**Overall Leader of Data Challenge Week Event, (JADS and Essent) March 2023**
+- Leadership Role: Appointed as the Overall Leader due to outstanding presentation and communication skills, creating a
+collaborative atmosphere in a diverse, multicultural team setting.
+- Mentorship: Guided five team leaders, providing direction and support in developing engaging challenges, including:Day-ahead
+Market Prediction, Balancing Market Prediction, Gas Consumption and Price Prediction, Battery Storage Optimization, Gas
+Storage Optimization
+- Technical Contribution: Played as a Technical Member, focusing on the Gas Consumption and Gas Price Prediction challenges,
+where I contributed to both strategy formulation and technical execution.
