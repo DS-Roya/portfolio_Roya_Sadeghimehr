@@ -45,7 +45,7 @@ screening decisions in compliance with industry regulations.
 
 
 ## Positions of Responsibility
-**Overall Leader of Data Challenge Week Event, (JADS and Essent) March 2023**
+**Overall Leader of Data Challenge Week Event, (hosted by JADS and Essent) March 2023**
 - Leadership Role: Appointed as the Overall Leader due to outstanding presentation and communication skills, creating a
 collaborative atmosphere in a diverse, multicultural team setting.
 - Mentorship: Guided five team leaders, providing direction and support in developing engaging challenges, including:Day-ahead
