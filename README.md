@@ -20,7 +20,7 @@
 - **Technical Execution:** Developed and utilized a SQL-based data transformation tool, performed advanced time series analysis, and created interactive dashboards using Dash and Plotly for insightful data visualization, enhancing decision-making and product quality.
 
 
-![EEG Band Discovery](/assets/EXTRUSION.jpg)
+![EEG Band Discovery](/assets/EXTRUSIONc.jpg)
 
 
 
