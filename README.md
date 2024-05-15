@@ -44,7 +44,7 @@ screening decisions in compliance with industry regulations.
 
   ![EEG Band Discovery](/assets/dll-removebg-preview.png)
 
-
+- Note: Due to the proprietary nature of the projects and strict confidentiality agreements with my employer, I am unable to share specific code or detailed methodologies publicly. However, I am happy to discuss the general approaches, technologies used, and the impact of my contributions on these projects during a personal interview.
 
 
 ## Positions of Responsibility
