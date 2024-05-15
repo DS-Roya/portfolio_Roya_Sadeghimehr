@@ -1,6 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Data Analysis, 
+#### Previous Experiences:
+- Data Analysis & Machine Learning: Time series analysis and forecasting, data visualization, process mining, explainable AI, deep learning, and NLP.
+- Web Development: Experienced in building applications using Flask.
+- Tools: Skilled in Python, SQL, Keras, TensorFlow, and PowerBI.
 
 ## Education
 - Engineering Doctorate (EngD), Data Science  | Jheronimus Academy of Data Science(JADS) (_Sep 2022- Aug 2024_)
