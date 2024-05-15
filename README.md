@@ -66,3 +66,5 @@ where I contributed to both strategy formulation and technical execution.
 
 ## Awards
 **Finalist team, ”Redesign Your Food Business” hackathon organized by the Hackathon Masters**
+- Winner: "Redesign Your Food Business" Hackathon, organized by Hackathon Masters. Awarded first place for devising the most innovative and impactful solution to modernize food industry operations.
+- Delivered compelling presentations  for both public and technical jury, and designed an insightful dashboard using PowerBI.
