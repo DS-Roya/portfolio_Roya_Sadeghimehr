@@ -24,7 +24,7 @@
 
 
 
-## Internships(teamwork)
+## Internships (teamwork)
 **Data Scientist @IKEA (_May 2023 - Jul 2023_)**
 - Objective: Developed a solution to address order imperfections within IKEA’s Order Life Cycle.
 - Impact: Utilized order lifecycle logs to estimate the likelihood of imperfections and identify root causes, enhancing customer
