@@ -20,6 +20,10 @@
 - **Technical Execution:** Developed and utilized a SQL-based data transformation tool, performed advanced time series analysis, and created interactive dashboards using Dash and Plotly for insightful data visualization, enhancing decision-making and product quality.
 
 
+![EEG Band Discovery](/assets/)
+
+
+
 ## Internships(teamwork)
 **Data Scientist @IKEA (_May 2023 - Jul 2023_)**
 - Objective: Developed a solution to address order imperfections within IKEA’s Order Life Cycle.
