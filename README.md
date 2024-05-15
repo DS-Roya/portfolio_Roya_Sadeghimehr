@@ -12,9 +12,12 @@
 
 ## Work Experience
 **Data Scientist @LiveKindly Collective(_Nov 2023 - Present_)**
-- Initiated and led the company's first data science project, developing an end-to-end pipeline from data collection to modeling and verification, including tools for transforming SQL sensor data for advanced analysis.
-- Collaborated with an outsourced company for data verification, conducted a detailed analysis of the extrusion process, and implemented machine learning models to predict water uptake.
-- The analytical insights derived from this project successfully identified key inefficiencies, leading to optimizations that saved the company millions of dollars.
+- Graduation Project: Modeling Water Uptake of Meat Analogs Based on Extrusion Variables
+
+   **Innovation:** Initiated the company’s first data science project, establishing a comprehensive data pipeline from extraction through to modeling, significantly enhancing production process efficiencies.
+- **Impact:** Through meticulous data analysis, identified critical inefficiencies and inconsistencies, leading to strategic process improvements that saved the company millions of dollars.
+- **Collaboration and Knowledge Transfer:** Collaborated effectively with external partners for data validation and bridged the knowledge gap between production and R&D, optimizing the extrusion process.
+- **Technical Execution:** Developed and utilized a SQL-based data transformation tool, performed advanced time series analysis, and created interactive dashboards using Dash and Plotly for insightful data visualization, enhancing decision-making and product quality.
 
 
 ## Internships(teamwork)
