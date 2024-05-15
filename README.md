@@ -30,7 +30,7 @@ satisfaction, reducing costs, and optimizing operational efficiency.
 Market Risk (BMR) model to improve model performance.
 - Tools & Methods used: Python, Keras, TensorFlow, Deep Learning, Time Series Analysis, Modeling and Simulation.
 
-![EEG Band Discovery](/assets/essent.JPG)
+![EEG Band Discovery](/assets/essent-removebg-preview.png)
 
 
 **Data Scientist @DLL (_Oct 2022 - Jan 2023_)**
