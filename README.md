@@ -44,7 +44,12 @@ screening decisions in compliance with industry regulations.
 
   ![EEG Band Discovery](/assets/dll-removebg-preview.png)
 
+  
+
 - Note: Due to the proprietary nature of the projects and strict confidentiality agreements with companies, I am unable to share specific code or detailed methodologies publicly. However, I am happy to discuss the general approaches, technologies used, and the impact of my contributions on these projects during a personal interview.
+
+
+
 
 
 ## Positions of Responsibility
@@ -56,3 +61,8 @@ Market Prediction, Balancing Market Prediction, Gas Consumption and Price Predic
 Storage Optimization
 - Technical Contribution: Played as a Technical Member, focusing on the Gas Consumption and Gas Price Prediction challenges,
 where I contributed to both strategy formulation and technical execution.
+
+
+
+## Awards
+**Finalist team, ”Redesign Your Food Business” hackathon organized by the Hackathon Masters**
