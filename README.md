@@ -21,7 +21,7 @@
 satisfaction, reducing costs, and optimizing operational efficiency.
 - Tools & Methods used: Process Mining, Machine Learning, Data Visualization, Explainable AI.
 
-![EEG Band Discovery](/assets/ikea.jpg)
+![EEG Band Discovery](/assets/ikea-removebg-preview.png)
 
 
 **Data Scientist @Essent (_Feb 2023 - Apr 2023_)**
@@ -39,7 +39,7 @@ Market Risk (BMR) model to improve model performance.
 screening decisions in compliance with industry regulations.
 - Tools & Methods used: Natural Language Processing (NLP), Web Scraping, BeautifulSoup, Flask, Data Analytics.
 
-  ![EEG Band Discovery](/assets/dll.JPG)
+  ![EEG Band Discovery](/assets/dll-removebg-preview.png)
 
 
 
