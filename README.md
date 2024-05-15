@@ -14,7 +14,7 @@
 **Data Scientist @LiveKindly Collective(_Nov 2023 - Present_)**
 - Graduation Project: Modeling Water Uptake of Meat Analogs Based on Extrusion Variables
 
-   **Innovation:** Initiated the company’s first data science project, establishing a comprehensive data pipeline from extraction through to modeling, significantly enhancing production process efficiencies.
+   **Innovation:** Initiated the company’s first data science project, establishing a comprehensive data pipeline from data collection through to modeling, significantly enhancing production process efficiencies.
 - **Impact:** Through comprehensive data analysis, identified critical inefficiencies and inconsistencies, leading to strategic process improvements that saved the company millions of dollars.
 - **Collaboration and Knowledge Transfer:** Collaborated effectively with external partners for data validation and bridged the knowledge gap between production and R&D, optimizing the extrusion process.
 - **Technical Execution:** Developed and utilized a SQL-based data transformation tool, performed advanced time series analysis, and created interactive dashboards using Dash and Plotly to enhance decision-making and improve process consistency.
