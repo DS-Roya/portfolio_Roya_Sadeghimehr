@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Previous Experiences:
+#### Skills:
 - Data Analysis & Machine Learning: Expert in Time series analysis and forecasting, data visualization, process mining, explainable AI, deep learning, and NLP.
 - Web Development: Experienced in building applications using Flask.
 - Tools: Skilled in Python, SQL, Keras, TensorFlow, and PowerBI.
