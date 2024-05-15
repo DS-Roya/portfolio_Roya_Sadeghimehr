@@ -54,12 +54,12 @@ screening decisions in compliance with industry regulations.
 
 ## Positions of Responsibility
 **Overall Leader of Data Challenge Week Event, (hosted by JADS and Essent) March 2023**
-- Leadership Role: Appointed as the Overall Leader due to outstanding presentation and communication skills, creating a
+- **Leadership Role:** Appointed as the Overall Leader due to outstanding presentation and communication skills, creating a
 collaborative atmosphere in a diverse, multicultural team setting.
-- Mentorship: Guided five team leaders, providing direction and support in developing engaging challenges, including:Day-ahead
+- **Mentorship:** Guided five team leaders, providing direction and support in developing engaging challenges, including:Day-ahead
 Market Prediction, Balancing Market Prediction, Gas Consumption and Price Prediction, Battery Storage Optimization, Gas
 Storage Optimization
-- Technical Contribution: Played as a Technical Member, focusing on the Gas Consumption and Gas Price Prediction challenges,
+- **Technical Contribution:** Played as a Technical Member, focusing on the Gas Consumption and Gas Price Prediction challenges,
 where I contributed to both strategy formulation and technical execution.
 
 
