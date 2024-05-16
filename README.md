@@ -48,7 +48,7 @@ Market Risk (BMR) model to improve model performance.
 - Objective: Objective: Designed and implemented an automated tool for adverse media screening using web crawling techniques.
 - Impact: Created a user-friendly web application for DLL compliance officers, enhancing the speed and accuracy of customer
 screening decisions in compliance with industry regulations.
-- Tools & Methods used: Natural Language Processing (NLP), Web Scraping, BeautifulSoup, Flask, Data Analytics.
+- Tools & Methods used: Natural Language Processing (NLP), Web Scraping, BeautifulSoup, API's, Flask, Data Analytics.
 
   ![EEG Band Discovery](/assets/dll-removebg-preview.png)
 
