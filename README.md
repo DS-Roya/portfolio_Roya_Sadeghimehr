@@ -1,5 +1,7 @@
 # Data Scientist
 
+
+
 ## Technical Skills
 - Data Analysis & Machine Learning: Time series analysis and forecasting, data visualization, machine learning, process mining, explainable AI, deep learning, and NLP.
 - Web Development: Experienced in building applications using Flask.
